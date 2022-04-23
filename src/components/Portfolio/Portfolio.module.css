@@ -1,0 +1,20 @@
+
+  
+  /* portfolio section */
+  .portfolio_section {
+    text-align: center;
+  }
+  
+  .portfolio_section .row>div {
+    margin: 20px 0;
+  
+  }
+  
+  .portfolio_img-box img {
+    width: 100%;
+    height: max-content;
+  }
+  
+  /* end portfolio section */
+  
+ 
