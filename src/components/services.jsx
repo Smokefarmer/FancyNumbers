@@ -3,12 +3,17 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Our Services</h2>
+          <h2>Fancy Numbers Pot</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            TBD
           </p>
         </div>
+
+
+
+
+        
+        {/*
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
@@ -23,6 +28,7 @@ export const Services = (props) => {
               ))
             : 'loading'}
         </div>
+            */}
       </div>
     </div>
   )

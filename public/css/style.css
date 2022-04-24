@@ -216,7 +216,7 @@ a:focus,
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.6);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -575,12 +575,26 @@ label {
   height: 48px;
   padding: 12px 0;
   border: 2px solid #fff;
-  color: #fff;
+  color: #608dfd;
+  background: #fff;
   border-radius: 50%;
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
+  color: #fff;
+  background: #608dfd;
+}
+#opensea {
+  height: 46px;
+  width: 46px;
+  margin-bottom: 9;
+  border: 2px solid #fff;
+  color: #fff;
+  background-color: #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+#opensea:hover {
   background: #fff;
 }
 /* Footer Section*/

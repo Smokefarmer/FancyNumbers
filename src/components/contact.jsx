@@ -36,6 +36,8 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
+          <h2>FAQ TBD</h2>
+          {/*
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
@@ -122,13 +124,17 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
+          
+          */}
+
+          
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
                 <ul>
                   <li>
                     <a href={props.data ? props.data.facebook : '/'}>
-                      <i className='fa fa-facebook'></i>
+                    <img id='opensea' src="img/opensea-icon_svg.svg" alt="" />
                     </a>
                   </li>
                   <li>

@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "What is your lucky number ?!",
+    "paragraph": "The owners of our NFT series Fancy Numbers will receive a unique number on the blockchain. With this number you can win our exlusive pot, get on whitelists in other NFT porjects or burn the Number and get money back."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Every month 10 NFTs are sold at our auction and the pot keeps growing. For this purpose, a spectacular video will be published on the Fancy Numbers YouTube channel where you can see which number has won.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -131,54 +131,54 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/thomas_rauchbauer.jpg",
+      "name": "Thomas Rauchbauer ",
+      "job": "Director "
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Kerstin Szorger ",
+      "job": "Senior Designer "
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Ronja Rau ",
+      "job": "Junior Designer "
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "TBD ",
+      "job": "TBD "
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Gerhard-Bronner-Straße 1/109",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "fancy.number@protonmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-trophy",
+      "title": "NFT auction",
+      "text": "Every month 10 NFTs are offered on the auction with a starting price of 0.05 ETH. 75% of the sales go into the winning pot."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-money",
+      "title": "Win a big pot of money",
+      "text": "Once the pot reaches a value of at least 100,000 dollars, preparations will be made for the raffle."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-fire",
+      "title": "Burn your Number",
+      "text": "Fancy Numbers Owner can burn their NFTs and reseave 50% of the sale price."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "TBD",
+      "text": "TBD"
     }
   ]
 }

@@ -5,8 +5,7 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Meet the Team</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            We are a younng and motivated team based in austria. Our goal is to create usability for NFTs in our real world and not just in the metaverse.
           </p>
         </div>
         <div id='row'>
@@ -17,7 +16,11 @@ export const Team = (props) => {
                     {' '}
                     <img src={d.img} alt='...' className='team-img' />
                     <div className='caption'>
-                      <h4>{d.name}</h4>
+                      <h4>{d.name}
+                      <a href="">
+                        <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                      </a>
+                      </h4>
                       <p>{d.job}</p>
                     </div>
                   </div>
