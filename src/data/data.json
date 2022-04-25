@@ -4,7 +4,7 @@
     "paragraph": "The owners of our NFT series Fancy Numbers will receive a unique number on the blockchain. With this number you can win our exlusive pot, get on whitelists in other NFT porjects or burn the Number and get money back."
   },
   "About": {
-    "paragraph": "Every month 10 NFTs are sold at our auction and the pot keeps growing. For this purpose, a spectacular video will be published on the Fancy Numbers YouTube channel where you can see which number has won.",
+    "paragraph": "The Fancy Numbers NFT collection consists of 1000 unique numbers. All Fancy Number NFTs has a outstanding design with a number from 1 - 1000 on it. Every 2 days a Fancy Number is sold at our auction and the pot keeps growing. Once the pot reaces the amount of 100.000 doller we will announce the date of the raffel. Only owner of an Fancy Number NFT can parcticipate in the draw. After the raffel the auctions will go on till the pot reaches again 100 k and so on. So the sooner you get a Fancy Number the higher are the chances to win.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -163,7 +163,7 @@
     {
       "icon": "fa fa-trophy",
       "title": "NFT auction",
-      "text": "Every month 10 NFTs are offered on the auction with a starting price of 0.05 ETH. 75% of the sales go into the winning pot."
+      "text": "Every 2 days an NFT is offered on the auction with a starting price of 0.05 ETH. 75% of the sales go into the winning pot."
     },
     {
       "icon": "fa fa-money",

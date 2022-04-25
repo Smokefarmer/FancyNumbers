@@ -1,5 +1,27 @@
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
+import Faq from 'react-faq-component';
+
+
+const data = {
+  rows: [
+    {
+      title: "Auf welcher Blockain werden die NFTs geminted",
+      content: "Etherium"
+    },
+    {
+      title: "TBD",
+      content: "TBD"
+    },
+    {
+      title: "TBD",
+      content: "TBD"
+    },
+    {
+      title: "Was für partnerproject habt ihr",
+      content: "Jungle Party und animal shelter rescue"
+    }]
+}
 
 const initialState = {
   name: '',
@@ -36,7 +58,7 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
-          <h2>FAQ TBD</h2>
+          <h2>FAQ</h2>
           {/*
           <div className='col-md-8'>
             <div className='row'>
@@ -127,6 +149,23 @@ export const Contact = (props) => {
           
           */}
 
+          <div className='faq_div' >
+            <Faq data={data}
+                styles={{
+                  bgColor: "transparent",
+                  titleTextColor: "#48482a",
+                  rowTitleColor: "#FFFFFF",
+                  rowTitleTextSize: 'large',
+                  rowContentColor: "#FFFFFF",
+                  rowContentTextSize: '16px',
+                  rowContentPaddingTop: '10px',
+                  rowContentPaddingBottom: '10px',
+                  rowContentPaddingLeft: '50px',
+                  rowContentPaddingRight: '150px',
+                  arrowColor: "#FFFFFF",
+                  }} 
+            />
+          </div>
           
           <div className='col-md-12'>
             <div className='row'>

@@ -1,3 +1,5 @@
+import Dashboard from "./dashboard"
+
 export const Services = (props) => {
   return (
     <div id='services' className='text-center'>
@@ -8,7 +10,7 @@ export const Services = (props) => {
             TBD
           </p>
         </div>
-
+        <Dashboard></Dashboard>
 
 
 
