@@ -17,7 +17,7 @@ export const Team = (props) => {
                     <img src={d.img} alt='...' className='team-img' />
                     <div className='caption'>
                       <h4>{d.name}
-                      <a href="">
+                      <a href={d.link} target="_blank">
                         <i class="fa fa-linkedin-square" aria-hidden="true"></i>
                       </a>
                       </h4>

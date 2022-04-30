@@ -4,160 +4,36 @@
     "paragraph": "The owners of our NFT series Fancy Numbers will receive a unique number on the blockchain. With this number you can win our exlusive pot, get on whitelists in other NFT porjects or burn the Number and get money back."
   },
   "About": {
-    "paragraph": "The Fancy Numbers NFT collection consists of 1000 unique numbers. All Fancy Number NFTs has a outstanding design with a number from 1 - 1000 on it. Every 2 days a Fancy Number is sold at our auction and the pot keeps growing. Once the pot reaces the amount of 100.000 doller we will announce the date of the raffel. Only owner of an Fancy Number NFT can parcticipate in the draw. After the raffel the auctions will go on till the pot reaches again 100 k and so on. So the sooner you get a Fancy Number the higher are the chances to win.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "The Fancy Numbers NFT collection consists of 1000 unique numbers. All Fancy Number NFTs has a outstanding design with a number from 1 - 1000 on it. Every 2 days a Fancy Number is sold at our auction and the pot keeps growing. Once the pot reaces the amount of 100.000 doller we will announce the date of the raffel. Only owner of an Fancy Number NFT can parcticipate in the draw. After the raffel the auctions will go on till the pot reaches again 100 k and so on. So the sooner you get a Fancy Number the higher are the chances to win."
   },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
   "Team": [
     {
       "img": "img/team/thomas_rauchbauer.jpg",
       "name": "Thomas Rauchbauer ",
-      "job": "Director "
+      "job": "Director ",
+      "link": "https://www.linkedin.com/in/thomas-rauchbauer-95697b165/?originalSubdomain=at"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/michael_mente.jpg",
+      "name": "Micheal Mente ",
+      "job": "Mastermind ",
+      "link": "https://www.linkedin.com/in/michael-mente-b0739a143/"
+    },
+    {
+      "img": "img/team/03.jpg",
       "name": "Kerstin Szorger ",
       "job": "Senior Designer "
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/04.jpg",
       "name": "Ronja Rau ",
       "job": "Junior Designer "
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "TBD ",
-      "job": "TBD "
     }
   ],
   "Contact": {
-    "address": "Gerhard-Bronner-Straße 1/109",
-    "phone": "+1 123 456 1234",
     "email": "fancy.number@protonmail.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "twitter": "https://twitter.com/FancyNumbers9",
+    "youtube": "https://www.youtube.com/channel/UCKd3y_NjeXFOlpEYYBdOecw"
   },
   "Features": [
     {
@@ -177,8 +53,8 @@
     },
     {
       "icon": "fa fa-magic",
-      "title": "TBD",
-      "text": "TBD"
+      "title": "Opensea fee",
+      "text": "50% of the traiding fee of opensea will be added to the pot"
     }
   ]
 }
